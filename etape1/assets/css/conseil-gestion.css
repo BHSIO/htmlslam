@@ -4,6 +4,10 @@
     width: auto;
     height: auto;
 }
+body{
+    width: auto;
+    height: auto;
+}
 .box {
     display: flex;
   }
@@ -46,24 +50,28 @@
     background-color: white;
     border-radius: 35px;
     margin: 1%;
+    margin-bottom: 9%;
 }
 .deux{
     flex: 1 1 auto;
     background-color: white;
     border-radius: 35px;
     margin: 1%;
+    margin-bottom: 9%;
 }
 .trois{
     flex: 1 1 auto;
     background-color: white;
     border-radius: 35px;
     margin: 1%;
+    margin-bottom: 9%;
 }
 .quatre{
     flex: 1 1 auto;
     background-color: white;
     border-radius: 35px;
     margin: 1%;
+    margin-bottom: 9%;
 }
 .p2{
     padding: 2%;
@@ -77,5 +85,15 @@ img{
     background-color: orange;
     border-radius: 100%;
     width: auto;
-    height: 150px;
+    height: 80px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+footer{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    height: 5%;
+    padding: 2%;
 }
